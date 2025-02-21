@@ -13,6 +13,9 @@ function movieCard({ movie }) {
           </button>
         </div>
       </div>
+      <div className="movie-info">
+        <h3>{movie.title}</h3>
+      </div>
     </div>
   );
 }
