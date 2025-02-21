@@ -1,5 +1,5 @@
 import "./App.css";
-import MovieCard from "./components/movieCard";
+
 
 function App() {
   
