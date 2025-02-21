@@ -1,4 +1,4 @@
-function movieCard({ movie }) {
+function MovieCard({ movie }) {
   function onFavoriteClick() {
     alert("clicked");
   }
@@ -20,3 +20,4 @@ function movieCard({ movie }) {
     </div>
   );
 }
+export default MovieCard;
